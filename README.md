@@ -5,7 +5,7 @@ Literalmente um projeto que fiquei pensando em fazer após ver um vídeo de algu
 
 No caso ele gera uma senha aleatória de 16 caracteres, usando letra minúscula, maiúscula números e caracteres especiais (Exemplo: #*&) misturando todos eles de forma aleatória com o módulo secrets garantindo que seja seguro.
 
-# Instalação 
+# Instalação: Livre para todos os sistemas operacionais 
 
 # No Linux:
 

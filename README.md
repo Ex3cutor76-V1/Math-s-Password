@@ -56,7 +56,7 @@ git clone https://github.com/Ex3cutor76-V1/Math-s-Password.git
 ```
 Entre no repositório:
 ```bash
-cd cd Math-s-Password
+cd Math-s-Password
 ```
 
 E agora sim use:
